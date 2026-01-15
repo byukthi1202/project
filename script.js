@@ -1,3 +1,3 @@
 function checkGrammar() {
-  alert("Hey gorgeous 😌💙 Grammar checking logic goes here!");
+  alert("just frontend!");
 }
